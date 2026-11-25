@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="Aisha Dauda Developer Portfolio Banner.png" width="100%" alt="Aisha Dauda - Software Engineering Student">
+</p>
+
 # Hi, I'm Aisha Dauda 👋
 
 ### Software Engineering Student | Aspiring Full-Stack Developer | Tech Enthusiast
